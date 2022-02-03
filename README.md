@@ -7,4 +7,4 @@
 <!---
 MINGGEKAI/MINGGEKAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->i want to study more and more knowledge,and i hope to improve myself,my English is not good，sorry.
+--->i want to study more and more knowledge,and i hope to improve myself,i am chinese,my English is not good，sorry.
