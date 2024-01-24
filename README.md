@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MINGGEKAI
+- 👋 Hi, I’m @MINGGE
 - 👀 I’m interested in computer and other new things
 - 🌱 I’m currently learning ABAQUS-software,and i am good at LINGO-software. 
 - 💞️ I’m looking to collaborate on nothing
