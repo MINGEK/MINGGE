@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @MINGGE
-- 👀 I’m interested in computer and other new things
-- 🌱 I’m currently learning ABAQUS-software,and i am good at LINGO-software. 
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me——1749787908@qq.com
-
-<!---
-MINGGEKAI/MINGGEKAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->i want to study more and more knowledge,and i hope to improve myself,i am chinese,my English is not good，sorry.
+👋 Hi, I'm MINGEK (武继开)
+🎯 **目标岗位**：机器人路径规划 / 导航算法工程师
+🌱 专注算法：A* · JPS · Hybrid A* · RRT · 时空 A* · 多机调度
+🛠️ 技术栈：C++17 · Python · ROS2 · Nav2 · pluginlib · matplotlib
+📦 已发布项目：
+  - [jps_pathplanning](https://github.com/MINGEK/jps_pathplanning) · ROS2 JPS 全局规划节点
+  - [grid-path-planning-algorithms](https://github.com/MINGEK/grid-path-planning-algorithms) · 7 种经典算法 + 动画
+  - [hybrid-a-star-path-planning](https://github.com/MINGEK/hybrid-a-star-path-planning) · 非完整约束路径规划
+📫 1749787908@qq.com
